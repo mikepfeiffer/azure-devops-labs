@@ -12,11 +12,8 @@
 What is Azure AD?
 * https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis
 
-Add a custom domain name to Azure Active Directory
-* https://docs.microsoft.com/en-us/azure/active-directory/active-directory-domains-add-azure-portal
+Connect your organization to Azure Active Directory
+* https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/connect-organization-to-azure-ad
 
-Quickstart for PowerShell in Azure Cloud Shell
-* https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
-
-Quickstart for Bash in Azure Cloud Shell
-* https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+Add or delete users using Azure Active Directory
+* https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory

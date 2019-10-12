@@ -8,11 +8,11 @@
 
 ### Notes:
 
-What is Azure AD?
-* https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis
+Permissions and groups in Azure DevOps
+* https://docs.microsoft.com/en-us/azure/devops/organizations/security/permissions
 
-Add a custom domain name to Azure Active Directory
-* https://docs.microsoft.com/en-us/azure/active-directory/active-directory-domains-add-azure-portal
+Add members to projects
+* https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/add-team-members
 
 Quickstart for PowerShell in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell

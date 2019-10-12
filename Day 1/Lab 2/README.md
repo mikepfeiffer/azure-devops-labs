@@ -10,11 +10,3 @@
 Quickstart: Create an organization or project collection
 * https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization
 
-Connect your organization to Azure Active Directory
-* https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/connect-organization-to-azure-ad
-
-Add or delete users using Azure Active Directory
-* https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory
-
-Quickstart: Install extensions
-* https://docs.microsoft.com/en-us/azure/devops/marketplace/install-extension
