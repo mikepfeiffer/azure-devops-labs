@@ -1,4 +1,4 @@
-# Lab 2 - Creating Your First Project and Setting up Your Organziation
+# Lab 2 - Creating Your First Project and Setting up Your Organization
 
 1. Sign into the Azure DevOps portal (https://dev.azure.com)
 2. Give your project a unique name and set the *Visibility* to **private**
