@@ -1,24 +1,25 @@
-# Lab 6 - Getting Started with Git and GitHub
+# Lab 6 - Initialize Cloud Shell and Azure DevOps CLI
 
-1. Sign up for a free account at GitHub.com (use your temp email account)
-2. Create a new public repository with a .gitignore and open source license
-3. Navigate to github.com/settings/profile > **Developer Settings** > **Personal Access Tokens**
-4. Generate a new personal access token and select all permissions listed under the **repo** scope...make sure you copy the personal access token so you can use it later
-5. Navigate back to your GitHub profile and find the repository you created in step two
-6. Copy the clone url from the top right-hand side of the repo
-7. Connect via RDP to your developer VM and open a **Command Prompt** or **PowerShell** terminal
-8. Use the **git clone** command to clone your empty repository
-9. Create an HTML file inside the local git repo...add a "hello world" message in the file
-10. Use the **git status** to review your untracked changes
-11. Use the **git add** command to stage your changes
-12. Use the **git commit** to commit your changes to the local repo
-13. Use the **git push** command to sync your changes to the GitHub repo (note: this is where you'll need to authenticate with GitHub...you may see a dialog window to login to GitHub, if not, use the command line to enter your GitHub username and your personal access token to auth)
-14. Verify you can see your code inside your GitHub repo after push
+1. Go to shell.azure.com and intitialize your cloud shell instance (select bash, for now, and choose all the defaults)
+2. Install the Azure DevOps extention with the `az extension add --name azure-devops` command
+3. Create a Personal Access Token for your account at dev.azure.com
+4. Go back to the cloud shell and sign in with your personal access token using the `az devops login --organization https://dev.azure.com/<YOUR ORG NAME>` command
+5. Run the `az repos list` to view a list of your repos
+6. Challenge: How can you run the `az repos list` command and get back only the **weburl** for the repo?
 
 ### Notes:
 
-Quickstart: Code with Git
-* https://docs.microsoft.com/en-us/azure/devops/user-guide/code-with-git
+Overview of Azure Cloud Shell
+* https://docs.microsoft.com/en-us/azure/cloud-shell/overview
 
-Git Reference
-* https://git-scm.com/docs
+Get started with Azure DevOps CLI
+* https://docs.microsoft.com/en-us/azure/devops/cli/get-started
+
+Create personal access tokens to authenticate access
+* https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate
+
+Sign in with a Personal Access Token (PAT)
+* https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat
+
+Query Azure CLI Command Output
+* https://docs.microsoft.com/en-us/cli/azure/query-azure-cli
