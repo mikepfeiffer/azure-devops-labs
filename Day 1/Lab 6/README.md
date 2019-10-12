@@ -9,8 +9,7 @@
 
 ### Lifelines:
 
-Overview of Azure Cloud Shell
-* https://docs.microsoft.com/en-us/azure/cloud-shell/overview
+[Overview of Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
 
 Get started with Azure DevOps CLI
 * https://docs.microsoft.com/en-us/azure/devops/cli/get-started
