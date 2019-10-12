@@ -12,6 +12,6 @@
 
 * [Add members to projects](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/add-team-members)
 
-* [Quickstart for PowerShell in Azure Cloud Shell(https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
+* [Quickstart for PowerShell in Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
 
-* [Quickstart for Bash in Azure Cloud Shell(https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
+* [Quickstart for Bash in Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
