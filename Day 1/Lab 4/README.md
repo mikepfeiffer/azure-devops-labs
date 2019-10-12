@@ -1,12 +1,10 @@
-# Lab 4 - XXXXX
+# Lab 4 - Configuring Project Permissions
 
-1. Connect your Azure AD directory instance to your Azure DevOps Organziation in the *Organziation Settings* section.
-2. Sign into the Azure AD portal (https://aad.portal.azure.com)
-3. Create a new Azure AD user in your directory
-4. Head back to dev.azure.com > *Organziation Settings* > *Users* > and add your new Azure AD user and associate the account with the *Project Administrators* group.
-5. Click the *Browse extentions* link on the right-hand side of the page to open the Visual Studio Marketplace.
-6. Install the "Test & Feedback" extention published by Microsoft.
-7. Assign the "Test Manager" extention to the Azure AD user you created in step X.
+1. Sign into the Azure AD portal (https://aad.portal.azure.com)
+2. Create another new Azure AD user in your directory
+4. Head back to dev.azure.com > *Organziation Settings* > *Users* > and associate the account with the *Project Administrators* group.
+5. Create a new Azure DevOps project in your organization
+6. Verify that your new user has been granted *Project Administrators* permisssions to the project
 
 ### Notes:
 
