@@ -5,7 +5,6 @@
 3. After that, go do this
 4. This is the last step
 
-### Notes:
+### Lifelines:
 
-Here's a helpful article
-* http://localhost
+* [Here's a helpful article](http://localhost)

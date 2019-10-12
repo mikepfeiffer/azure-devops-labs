@@ -15,7 +15,7 @@
 13. Use the `git push` command to sync your changes to the GitHub repo (note: this is where you'll need to authenticate with GitHub...you may see a dialog window to login to GitHub, if not, use the command line to enter your GitHub username and your personal access token to auth)
 14. Verify you can see your code inside your GitHub repo after push
 
-### Notes:
+### Lifelines:
 
 * [Quickstart: Code with Git](https://docs.microsoft.com/en-us/azure/devops/user-guide/code-with-git)
 
