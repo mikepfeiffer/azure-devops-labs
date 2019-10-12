@@ -20,8 +20,5 @@
 Quickstart: Code with Git
 * https://docs.microsoft.com/en-us/azure/devops/user-guide/code-with-git
 
-What is Git?
-* https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git
-
-Create a new Git repo in your project
-* https://docs.microsoft.com/en-us/azure/devops/repos/git/create-new-repo
+Git Reference
+* https://git-scm.com/docs
