@@ -11,10 +11,10 @@
 
 * [Overview of Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
 
-[Get started with Azure DevOps CLI](https://docs.microsoft.com/en-us/azure/devops/cli/get-started)
+* [Get started with Azure DevOps CLI](https://docs.microsoft.com/en-us/azure/devops/cli/get-started)
 
-[Create personal access tokens to authenticate access](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate)
+* [Create personal access tokens to authenticate access](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate)
 
-[Sign in with a Personal Access Token (PAT)](https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat)
+* [Sign in with a Personal Access Token (PAT)](https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat)
 
-[Query Azure CLI Command Output](https://docs.microsoft.com/en-us/cli/azure/query-azure-cli)
+* [Query Azure CLI Command Output](https://docs.microsoft.com/en-us/cli/azure/query-azure-cli)
