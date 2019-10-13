@@ -1,4 +1,4 @@
-# Lab 1 - Dev Workstation Setup
+# Lab 1 - Developer Workstation Setup
 
 1. Do this first
 2. Then do this
