@@ -22,7 +22,7 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 
 ## Workshop Details
 
-The Azure DevOps 3-Day Workshop was created by [Mike Pfeiffer](https://twitter.com/mike_pfeiffer), Chief technologist for CloudSkills.io.
+The Azure DevOps 3-Day Workshop was created by [Mike Pfeiffer](https://twitter.com/mike_pfeiffer), Chief Technologist, [CloudSkills.io](https://cloudskills.io).
 
 ### Version
 
