@@ -11,3 +11,7 @@
 * [Permissions and groups in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/organizations/security/permissions)
 
 * [Add members to projects](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/add-team-members)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

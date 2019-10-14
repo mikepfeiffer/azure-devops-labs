@@ -13,4 +13,4 @@
 
 ### Navigation:
 
-* [Back to DevOps Labs](https://github.com/mikepfeiffer/azure-devops-labs)
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

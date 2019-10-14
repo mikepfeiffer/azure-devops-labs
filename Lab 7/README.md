@@ -20,3 +20,7 @@
 * [Quickstart: Code with Git](https://docs.microsoft.com/en-us/azure/devops/user-guide/code-with-git)
 
 * [Git Reference](https://git-scm.com/docs)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

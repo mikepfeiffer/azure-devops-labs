@@ -18,3 +18,7 @@
 * [Sign in with a Personal Access Token (PAT)](https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat)
 
 * [Query Azure CLI Command Output](https://docs.microsoft.com/en-us/cli/azure/query-azure-cli)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

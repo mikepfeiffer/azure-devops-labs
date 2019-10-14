@@ -22,3 +22,7 @@ Create a "Dev" Deployment Slot
 ### Lifelines
 
 * [Set up staging environments in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-staged-publishing)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

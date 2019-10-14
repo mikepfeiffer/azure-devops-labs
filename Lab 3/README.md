@@ -14,3 +14,7 @@
 * [Connect your organization to Azure Active Directory](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/connect-organization-to-azure-ad)
 
 * [Add or delete users using Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

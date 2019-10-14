@@ -19,3 +19,7 @@
 * [Review Code with Pull Requests](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests)
 
 * [Pull Request Templates](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)

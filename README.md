@@ -13,15 +13,15 @@ Azure DevOps provides an integrated set of features that you can access through 
 This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure DevOps. You'll learn an incredible amount by working through these tactical, thought provoking, hands-on labs:
 
 * [Lab 1 - Azure Subscription and Developer Workstation Setup](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%201)
-* Lab 2 - Creating Your First Project and Setting up Your Organization
-* Lab 3 - Integrating Azure AD with Azure DevOps
-* Lab 4 - Configuring Project Permissions
-* Lab 5 - Initialize and Connect to Your First Git Repository
-* Lab 6 - Initialize Cloud Shell and Azure DevOps CLI
-* Lab 7 - Getting Started with Git and GitHub
-* Lab 8 - Creating a Branch and Merging Changes
-* Lab 9 - Code Reviews with Git Pull Requests
-* Lab 10 - Blue-green Deployments with Azure App Service and GitHub
+* [Lab 2 - Creating Your First Project and Setting up Your Organization](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%202)
+* [Lab 3 - Integrating Azure AD with Azure DevOps](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%203)
+* [Lab 4 - Configuring Project Permissions](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%204)
+* [Lab 5 - Initialize and Connect to Your First Git Repository](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%205)
+* [Lab 6 - Initialize Cloud Shell and Azure DevOps CLI](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%206)
+* [Lab 7 - Getting Started with Git and GitHub](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%207)
+* [Lab 8 - Creating a Branch and Merging Changes](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%208)
+* [Lab 9 - Code Reviews with Git Pull Requests](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%209)
+* [Lab 10 - Blue-green Deployments with Azure App Service and GitHub](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%2010)
 
 ## Workshop Details
 

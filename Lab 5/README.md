@@ -16,3 +16,7 @@
 * [What is Git?](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
 
 * [Create a new Git repo in your project](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-new-repo)
+
+### Navigation:
+
+* [Back to Lab Index](https://github.com/mikepfeiffer/azure-devops-labs)
