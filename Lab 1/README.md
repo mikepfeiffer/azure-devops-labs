@@ -10,3 +10,7 @@
 ### Lifelines:
 
 * [Create a Windows Virtual Machine in the Azure Portal](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
+
+### Navigation:
+
+* [Back to DevOps Labs](https://github.com/mikepfeiffer/azure-devops-labs)
