@@ -12,7 +12,7 @@ Azure DevOps provides an integrated set of features that you can access through 
 
 This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure DevOps. You'll learn an incredible amount by working through these tactical, thought provoking, hands-on labs:
 
-* [Lab 1 - Azure Subscription and Developer Workstation Setup](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%201)
+* [Lab 1 - Azure Subscription and Developer Workstation Setup](https://github.com/mikepfeiffer/azure-devops-labs/Labs/tree/master/Lab%201)
 * [Lab 2 - Creating Your First Project and Setting up Your Organization](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%202)
 * [Lab 3 - Integrating Azure AD with Azure DevOps](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%203)
 * [Lab 4 - Configuring Project Permissions](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Lab%204)
