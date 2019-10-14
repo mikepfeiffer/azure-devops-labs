@@ -1,6 +1,6 @@
 # Lab 10 - Blue-green Deployments with Azure App Service and GitHub
 
-Application Setup:
+### Application Setup:
 
 1. Create a new public repository in your GitHub account called "MyDemoWebApp" (make sure to add a .gitignore for Visual Studio)
 2. Connect to your developer VM via RDP
@@ -12,7 +12,7 @@ Application Setup:
 9. Use the `dotnet run` command to debug the application
 10. Use the Git command line to commit your changes and push your code to GitHub
 
-Deploy a Web App to Azure:
+### Deploy a Web App to Azure:
 
 1. Create a new App Service in the Azure Portal (Web App) Make sure to select at least a Standard tier (S1) App Service Plan
 2. Navigate to the properties of your Web App > ***Deployment slots*** > and create a deployment slot in your Web App called "dev"
@@ -20,12 +20,12 @@ Deploy a Web App to Azure:
 2. In the properties of your "dev" deployment slot, navigate to > ***Deployment Center*** > and configure deployment via GitHub (note: use the App Service build service as your build provider)
 3. Visit the url for your "dev" slot web app to see your application live on the internet
 
-Perform a Zero Downtime Deployment
+### Perform a Zero Downtime Deployment
 
 1. Navigate to the properties of your production Web App in the Azure portal
 2. On the main screen, select > ***Deployment slots*** > and the perform a "swap" operation to bring the code in development slot into production
 
-Validate the Workflow
+### Validate the Workflow
 
 1. Let's run through the process one more time
 2. Update the code in your local project (just add a new message to the "index.cshtml" view in the Pages folder)
