@@ -8,6 +8,7 @@
 6. Make sure you can connect remotely via Remote Desktop Protocol (RDP)
 7. Install [.NET Core 2.2](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.402-windows-x64-installer) on your developer VM
 8. Sign up for a free [GitHub](https://github.com) account -- use your **protonmail.com** email address
+9. Install [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Lifelines:
 
