@@ -12,7 +12,7 @@ Azure DevOps provides an integrated set of features that you can access through 
 
 This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure DevOps. You'll learn an incredible amount by working through these tactical, thought provoking, hands-on labs:
 
-* Lab 1 - Developer Workstation Setup
+* Lab 1 - Azure Subscription and Developer Workstation Setup
 * Lab 2 - Creating Your First Project and Setting up Your Organization
 * Lab 3 - Integrating Azure AD with Azure DevOps
 * Lab 4 - Configuring Project Permissions
