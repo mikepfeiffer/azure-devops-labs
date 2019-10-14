@@ -19,6 +19,9 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 * Lab 5 - Initialize and Connect to Your First Git Repository
 * Lab 6 - Initialize Cloud Shell and Azure DevOps CLI
 * Lab 7 - Getting Started with Git and GitHub
+* Lab 8 - Creating a Branch and Merging Changes
+* Lab 9 - Code Reviews with Git Pull Requests
+* Lab 10 - Blue-green Deployments with Azure App Service and GitHub
 
 ## Workshop Details
 
