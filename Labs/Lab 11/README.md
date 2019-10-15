@@ -7,7 +7,8 @@
 
 ### Lifelines:
 
-* Step-by-Step Instructions: [Create a CI/CD pipeline for .NET with the Azure DevOps Project](https://azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/)
+* Step-by-Step Instructions:
+[Create a CI/CD pipeline for .NET with the Azure DevOps Project](https://azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/)
 
 ### Navigation:
 
