@@ -6,7 +6,8 @@
 
 ### Lifelines:
 
-* [Here's a link](http://localhost)
+* Step-by-Step Instructions:
+[Using Secrets from Azure Key Vault in a Pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
 
 ### Navigation:
 
