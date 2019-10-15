@@ -1,4 +1,4 @@
-# Lab 11 - Create a CI/CD pipeline for .NET with the Azure DevOps Project
+# Lab 11 - Create a CI/CD Pipeline for .NET with the Azure DevOps Project
 
 1. Create an ASP.NET sample DevOps project using Azure DevOps Project feature in Azure
 2. Examine the CI/CD pipelines configured by Azure DevOps Project

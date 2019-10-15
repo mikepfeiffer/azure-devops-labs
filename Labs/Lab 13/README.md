@@ -1,8 +1,8 @@
-# Lab 13 - Create a YAML Build Definition
+# Lab 13 - Using Secrets from Azure Key Vault in a Pipeline
 
-1. Do this first
-2. Then do this
-3. And, finally, do this
+1. We will create a key vault, from the Azure portal, to store a MySQL server password
+2. We will configure permissions to let a service principal to read the value
+3. We will retrieve the password in an Azure pipeline and passed on to subsequent tasks
 
 ### Lifelines:
 
