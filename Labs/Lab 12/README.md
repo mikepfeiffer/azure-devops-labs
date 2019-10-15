@@ -6,7 +6,7 @@
 
 ### Lifelines:
 
-* Step-by-Step Instructions: [Azure DevOps Labs](https://azuredevopslabs.com/labs/vstsextend/docker/)
+* Step-by-Step Instructions: [Deploying a Docker based web application to Azure App Service](https://azuredevopslabs.com/labs/vstsextend/docker/)
 
 ### Navigation:
 
