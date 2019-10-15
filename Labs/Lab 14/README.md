@@ -1,12 +1,14 @@
-# Lab 14 - Create an Automated Release Definition
+# Lab 14 - Package Management with Azure Artifacts
 
-1. Do this first
-2. Then do this
-3. And, finally, do this
+1. Create and connecting to a feed
+2. Create and publish a NuGet package
+3. Import a NuGet package
+4. Update a NuGet package
 
 ### Lifelines:
 
-* [Here's a link](http://localhost)
+* Step-by-Step Instructions:
+[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
 
 ### Navigation:
 
