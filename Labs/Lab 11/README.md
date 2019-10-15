@@ -1,13 +1,13 @@
-# Lab 11 - Create an Automated Build with the Classic Editor
+# Lab 11 - Create a CI/CD pipeline for .NET with the Azure DevOps Project
 
-1. Create a build, select classic editor
-2. Use the ASP.NET Core template
-3. Setup a .NET Core Web App they can use that has unit tests already
-3. And, finally, do this
+1. Create an ASP.NET sample DevOps project using Azure DevOps Project feature in Azure
+2. Examine the CI/CD pipelines configured by Azure DevOps Project
+3. Commit the code changes and execute CI/CD
+4. Configure Azure Application Insights monitoring
 
 ### Lifelines:
 
-* [Here's a link](http://localhost)
+* Step-by-Step Instructions: [Azure DevOps Labs](https://azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/)
 
 ### Navigation:
 
