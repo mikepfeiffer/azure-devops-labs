@@ -1,8 +1,11 @@
-# Lab 13 - Deploying a Docker Web Application to Azure App Service
+# Lab 12 - Configuring CI/CD Pipelines as Code with YAML in Azure DevOps
 
-1. Build custom Docker images using Azure DevOps Hosted Linux agent
-2. Push and store the Docker images in a private repository
-3. Deploy and run the images inside the Docker Containers
+1. Configuring CI/CD Pipelines as Code with YAML in Azure DevOps
+2. reating Azure resources
+3. Configuring the Parts Unlimited project
+4. Adding a YAML build definition
+5. Adding continuous delivery to the YAML definition
+6. Reviewing the deployed site
 
 ### Lifelines:
 
