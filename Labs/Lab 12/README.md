@@ -1,4 +1,4 @@
-# Lab 12 - Deploying a Docker Web Application to Azure App Service
+# Lab 13 - Deploying a Docker Web Application to Azure App Service
 
 1. Build custom Docker images using Azure DevOps Hosted Linux agent
 2. Push and store the Docker images in a private repository
