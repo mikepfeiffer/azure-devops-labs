@@ -1,13 +1,13 @@
-# Lab 13 - Using Secrets from Azure Key Vault in a Pipeline
+# Lab 13 - Deploying a Docker Web Application to Azure App Service
 
-1. We will create a key vault, from the Azure portal, to store a MySQL server password
-2. We will configure permissions to let a service principal to read the value
-3. We will retrieve the password in an Azure pipeline and passed on to subsequent tasks
+1. Build custom Docker images using Azure DevOps Hosted Linux agent
+2. Push and store the Docker images in a private repository
+3. Deploy and run the images inside the Docker Containers
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Using Secrets from Azure Key Vault in a Pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
+[Deploying a Docker Web Application to Azure App Service](https://azuredevopslabs.com/labs/vstsextend/docker/)
 
 ### Navigation:
 

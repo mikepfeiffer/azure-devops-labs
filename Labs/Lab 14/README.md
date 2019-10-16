@@ -1,14 +1,13 @@
-# Lab 14 - Package Management with Azure Artifacts
+# Lab 14 - Using Secrets from Azure Key Vault in a Pipeline
 
-1. Create and connecting to a feed
-2. Create and publish a NuGet package
-3. Import a NuGet package
-4. Update a NuGet package
+1. We will create a key vault, from the Azure portal, to store a MySQL server password
+2. We will configure permissions to let a service principal to read the value
+3. We will retrieve the password in an Azure pipeline and passed on to subsequent tasks
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
+[Using Secrets from Azure Key Vault in a Pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
 
 ### Navigation:
 

@@ -1,16 +1,14 @@
-# Lab 15 - Integrate Your GitHub Projects With Azure Pipelines
+# Lab 15 - Package Management with Azure Artifacts
 
-1. Fork a GitHub repo and installing Azure Pipelines
-2. Configure your Azure Pipelines project
-3. Modify a YAML build pipeline definition
-4. Propose a change via GitHub pull request
-5. Use the broken pull request to improve the project
-6. Add a build status badge
+1. Create and connecting to a feed
+2. Create and publish a NuGet package
+3. Import a NuGet package
+4. Update a NuGet package
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Integrate Your GitHub Projects With Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/github-integration/)
+[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
 
 ### Navigation:
 
