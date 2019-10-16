@@ -23,10 +23,11 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 * [Lab 9 - Code Reviews with Git Pull Requests](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%209)
 * [Lab 10 - Blue-green Deployments with Azure App Service and GitHub](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2010)
 * [Lab 11 - Create a CI/CD Pipeline for .NET with the Azure DevOps Project](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2011)
-* [Lab 12 - Deploying a Docker Web Application to Azure App Service](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2012)
-* [Lab 13 - Using Secrets from Azure Key Vault in a Pipeline](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2013)
-* [Lab 14 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2014)
-* [Lab 15 - Integrate Your GitHub Projects With Azure Pipelines](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2015)
+* [Lab 12 - Configuring CI/CD Pipelines as Code with YAML in Azure DevOps](https://azuredevopslabs.com/labs/azuredevops/yaml/)
+* [Lab 13 - Deploying a Docker Web Application to Azure App Service](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2012)
+* [Lab 14 - Using Secrets from Azure Key Vault in a Pipeline](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2013)
+* [Lab 15 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2014)
+* [Lab 16 - Integrate Your GitHub Projects With Azure Pipelines](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2015)
 
 ## Workshop Details
 
