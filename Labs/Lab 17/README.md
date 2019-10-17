@@ -7,7 +7,7 @@
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Package Management with Azure Artifacts](https://azuredevopslabs.com//labs/vstsextend/whitesource/)
+[Managing Open-source security and license with WhiteSource](https://azuredevopslabs.com//labs/vstsextend/whitesource/)
 
 ### Navigation:
 
