@@ -1,14 +1,13 @@
-# Lab 18 - Package Management with Azure Artifacts
+# Lab 18 - Managing Technical Debt with Azure DevOps and SonarCloud
 
-1. Create and connecting to a feed
-2. Create and publish a NuGet package
-3. Import a NuGet package
-4. Update a NuGet package
+1. Install and configure the SonarCloud extension
+2. Integrating a build with SonarCloud
+3. Reviewing SonarCloud results
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
+[Managing Technical Debt with Azure DevOps and SonarCloud](https://azuredevopslabs.com//labs/azuredevops/sonarcloud/)
 
 ### Navigation:
 
