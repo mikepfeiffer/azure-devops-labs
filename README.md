@@ -30,6 +30,7 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 * [Lab 16 - Controlling Deployments using Release Gates](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2016)
 * [Lab 17 - Managing Open-source security and license with WhiteSource](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2017)
 * [Lab 18 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2018)
+* [Lab 19 - Exploratory Testing with Azure Test Plans](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2019)
 
 ## Workshop Details
 
