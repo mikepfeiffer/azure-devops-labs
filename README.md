@@ -26,8 +26,9 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 * [Lab 12 - Configuring CI/CD Pipelines as Code with YAML in Azure DevOps](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2012)
 * [Lab 13 - Deploying a Docker Web Application to Azure App Service](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2013)
 * [Lab 14 - Using Secrets from Azure Key Vault in a Pipeline](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2014)
-* [Lab 15 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2015)
-* [Lab 16 - Integrate Your GitHub Projects With Azure Pipelines](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2016)
+* [Lab 15 - Deploying to Azure VM using Deployment Groups](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2015)
+* [Lab 16 - Controlling Deployments using Release Gates](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2016)
+* [Lab 17 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2017)
 
 ## Workshop Details
 

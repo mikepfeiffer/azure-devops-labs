@@ -1,16 +1,17 @@
-# Lab 16 - Integrate Your GitHub Projects With Azure Pipelines
+# Lab 16 - Controlling Deployments using Release Gates
 
-1. Fork a GitHub repo and installing Azure Pipelines
-2. Configure your Azure Pipelines project
-3. Modify a YAML build pipeline definition
-4. Propose a change via GitHub pull request
-5. Use the broken pull request to improve the project
-6. Add a build status badge
+1. Setup up the Target Environment
+2. Configure Release pipeline
+3. Update Release Tasks
+4. Configure Deployment Gates
+5. Enabling Pre-deployment Gate
+6. Enabling Post-deployment Gate
+7. Update and deploy application after adding release gates
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Integrate Your GitHub Projects With Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/github-integration/)
+[Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/#enabling-post-deployment-gate)
 
 ### Navigation:
 

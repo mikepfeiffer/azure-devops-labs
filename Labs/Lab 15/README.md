@@ -1,14 +1,13 @@
-# Lab 15 - Package Management with Azure Artifacts
+# Lab 15 - Deploying to Azure VM using Deployment Groups
 
-1. Create and connecting to a feed
-2. Create and publish a NuGet package
-3. Import a NuGet package
-4. Update a NuGet package
+1. Deploy project using Azure DevOps Demo Generator
+2. Deploy ARM template
+3. Create Deployment Groups and Configure Release
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
+[Deploying to Azure VM using Deployment Groups](https://azuredevopslabs.com//labs/vstsextend/deploymentgroups/)
 
 ### Navigation:
 
