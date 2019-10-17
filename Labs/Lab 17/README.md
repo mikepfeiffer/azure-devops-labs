@@ -1,14 +1,13 @@
-# Lab 17 - Package Management with Azure Artifacts
+# Lab 17 - Managing Open-source security and license with WhiteSource
 
-1. Create and connecting to a feed
-2. Create and publish a NuGet package
-3. Import a NuGet package
-4. Update a NuGet package
+1. Activate WhiteSource Bolt
+2. Trigger a build
+3. Analyze Reports
 
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Package Management with Azure Artifacts](https://azuredevopslabs.com/labs/azuredevops/packagemanagement/)
+[Package Management with Azure Artifacts](https://azuredevopslabs.com//labs/vstsextend/whitesource/)
 
 ### Navigation:
 

@@ -28,7 +28,8 @@ This Azure DevOps three (3) day workshop teaches you the fundamentals of Azure D
 * [Lab 14 - Using Secrets from Azure Key Vault in a Pipeline](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2014)
 * [Lab 15 - Deploying to Azure VM using Deployment Groups](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2015)
 * [Lab 16 - Controlling Deployments using Release Gates](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2016)
-* [Lab 17 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2017)
+* [Lab 17 - Managing Open-source security and license with WhiteSource](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2017)
+* [Lab 18 - Package Management with Azure Artifacts](https://github.com/mikepfeiffer/azure-devops-labs/tree/master/Labs/Lab%2018)
 
 ## Workshop Details
 
