@@ -1,7 +1,7 @@
 # Lab 12 - Configuring CI/CD Pipelines as Code with YAML in Azure DevOps
 
 1. Configuring CI/CD Pipelines as Code with YAML in Azure DevOps
-2. reating Azure resources
+2. Creating Azure resources
 3. Configuring the Parts Unlimited project
 4. Adding a YAML build definition
 5. Adding continuous delivery to the YAML definition
@@ -10,7 +10,7 @@
 ### Lifelines:
 
 * Step-by-Step Instructions:
-[Deploying a Docker Web Application to Azure App Service](https://azuredevopslabs.com/labs/vstsextend/docker/)
+[Configuring CI/CD Pipelines as Code with YAML in Azure DevOps](https://azuredevopslabs.com/labs/azuredevops/yaml/)
 
 ### Navigation:
 
